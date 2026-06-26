@@ -1,6 +1,6 @@
    header {
        background-image: url(grama.jpg);
-       background-size:auto;
+       background-size:contain;
        color: #FFFFFF;
        font-family: cursive;
        font-weight: bold;
