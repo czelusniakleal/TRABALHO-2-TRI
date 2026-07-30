@@ -44,7 +44,7 @@
        padding: 20px;
    }
    .post_grande {
-    align-content: center;
+    text-align: center;
     width: 800px;
     height: 700px;
    }
