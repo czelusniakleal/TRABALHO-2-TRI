@@ -43,3 +43,8 @@
        margin-top:0px;
        padding: 20px;
    }
+   .post_grande {
+    align-content: center;
+    width: 800px;
+    height: 700px;
+   }
