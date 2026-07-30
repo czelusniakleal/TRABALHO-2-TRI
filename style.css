@@ -46,6 +46,6 @@
    .post_grande {
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
-    height: 700px;
+    width: auto;
+    height: auto;
    }
